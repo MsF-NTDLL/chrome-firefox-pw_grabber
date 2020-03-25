@@ -4,10 +4,9 @@ c++/py navigator passwords grabber
 
 ---------
 CHROME cpp credits:
-http://www.cplusplus.com/forum/general/232151/
+http://www.cplusplus.com/forum/general/232151 <br>
 
-CHROME py credits:
-https://medium.com/@ionisingtuna/extract-chrome-passwords-with-python-307672bc528d
+
 ---------
 
 ---------
